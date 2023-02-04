@@ -43,6 +43,10 @@ document.getElementById('reset_button').addEventListener('click', (e) => {
     window.location.href = 'index.html';
 });
 
+/*document.getElementById('start_date').addEventListener('change', (e) => {
+        alert("ttt");
+});*/
+
 window.addEventListener('beforeinstallprompt', (e) => {
   // Prevent Chrome 67 and earlier from automatically showing the prompt
   e.preventDefault();
