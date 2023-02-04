@@ -24,8 +24,8 @@ if (timestamp) {
     document.getElementById('start_date').value = timestamp;
 //  fireworks.start();
 }
-// else, no date set
-else {
+else { // no date set, change default to today's date
+    document.getElementById('start_date').valueAsDate = new Date();
 }
 
 document.getElementById('set_button').addEventListener('click', (e) => {

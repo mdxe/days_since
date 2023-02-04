@@ -13,11 +13,10 @@ Simple App that display days since selected date.
 
 ## Todo
 - [ ] TO FIX HIGH PRIORITY: when calendar pops up on Chrome/Android, OK button doesnt show
-- [ ] TO FIX: fix button that is supposed to popup "add to home screen" window isn't
+- [ ] TO FIX: The button that is supposed to popup "add to home screen" window isn't
 - [ ] Code and show firework action when date set
 - [ ] MAYBE: Add note to url parameter
 
-- [x] Display date in human (i.e.: Sept. 6th 2022)
 - [x] Change numbers-of-days day-count format (green)?
 
 ## Credits
