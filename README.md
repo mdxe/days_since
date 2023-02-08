@@ -1,6 +1,6 @@
 ## Days Since Date - Online Calculator App
 
-Minimal website that shows how many days have passed since a selected date. It is a static website so the host/server reads saved date from URL parameter. To save a new date, simply create a new local bookmark along with name and/or tags (description and tags are client-side only).
+Minimal website that shows how many days have passed since a selected date. It is a static website so the host/server reads saved date from URL parameter. To save a new date, simply create a new local bookmark along with name and/or tags (description and tags are client-side only). The goal for this little project wast to be able to host it on Github Pages (barebone/baremetal/no framework website).  It works as-is, but I somewhat failed as it still requires JavaScript for the form submission.
 
 ## Usage
 
